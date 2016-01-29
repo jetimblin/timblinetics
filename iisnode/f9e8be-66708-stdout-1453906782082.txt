@@ -1,0 +1,13 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://timblinetics.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+66.249.64.190:44261 - - [Wed, 27 Jan 2016 14:59:43 GMT] "GET /robots.txt HTTP/1.1" 200 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.195:38595 - - [Wed, 27 Jan 2016 14:59:57 GMT] "GET /assets/images/linkedin.png?v=5ca78bf4bb HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.64.200:43561 - - [Wed, 27 Jan 2016 15:00:53 GMT] "GET /assets/images/twitter.png?v=5ca78bf4bb HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.64.200:51560 - - [Wed, 27 Jan 2016 15:08:40 GMT] "GET /assets/images/twitter.png?v=5dd8f1e94b HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.64.190:45730 - - [Wed, 27 Jan 2016 15:08:41 GMT] "GET /assets/images/instagram.png?v=5dd8f1e94b HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.64.190:48841 - - [Wed, 27 Jan 2016 15:08:41 GMT] "GET /assets/images/flickr.png?v=5dd8f1e94b HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.64.190:45730 - - [Wed, 27 Jan 2016 15:08:47 GMT] "GET /assets/images/AboutMe.png?v=5dd8f1e94b HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.65.65:39071 - - [Wed, 27 Jan 2016 15:13:24 GMT] "GET /assets/images/linkedin.png?v=5dd8f1e94b HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.65.65:39071 - - [Wed, 27 Jan 2016 15:13:24 GMT] "GET /assets/images/fb.png?v=5dd8f1e94b HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"

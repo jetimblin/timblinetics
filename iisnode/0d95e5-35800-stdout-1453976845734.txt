@@ -1,0 +1,5 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://timblinetics.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+93.86.151.51:15829 - - [Thu, 28 Jan 2016 10:27:28 GMT] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"

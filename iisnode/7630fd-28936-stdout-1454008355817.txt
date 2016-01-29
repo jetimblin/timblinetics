@@ -1,0 +1,4 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://timblinetics.azurewebsites.net [90m
+Ctrl+C to shut down[39m

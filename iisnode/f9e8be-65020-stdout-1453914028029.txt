@@ -1,0 +1,7 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://timblinetics.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+66.249.65.68:36714 - - [Wed, 27 Jan 2016 17:00:29 GMT] "GET /assets/images/fb.png?v=8c34e32f92 HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"
+66.249.65.65:55277 - - [Wed, 27 Jan 2016 17:02:21 GMT] "GET /robots.txt HTTP/1.1" 200 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.65.65:55277 - - [Wed, 27 Jan 2016 17:02:35 GMT] "GET /assets/images/instagram.png?v=de5817444d HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"

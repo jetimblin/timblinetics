@@ -1,0 +1,5 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://timblinetics.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+109.100.228.214:50135 - - [Thu, 28 Jan 2016 21:01:11 GMT] "GET /ghost-on-windows-azure/ HTTP/1.0" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36"
